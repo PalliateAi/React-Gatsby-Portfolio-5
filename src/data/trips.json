@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/travel-1.jpeg",
+        "alt":"Tian Tan Buddha",
+        "name":"Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-2.jpeg",
+        "alt":"Tian Tan Buddha",
+        "name":"Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-3.jpeg",
+        "alt":"Tian Tan Buddha",
+        "name":"Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel-4.jpeg",
+        "alt":"Tian Tan Buddha",
+        "name":"Tian Tan Buddha",
+        "button": "View Destination"
+    }
+]
